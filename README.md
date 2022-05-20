@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 Software Engineer
+- 😄 Check out my Portfolio Site Below
 <!--
 **Daljeet-sandhu/Daljeet-sandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
