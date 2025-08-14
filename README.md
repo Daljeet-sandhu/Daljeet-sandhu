@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Thanks for visiting my humble abode
-- 🌱 I am a Science LEAD Silver Medallion Scholar from University of windsor
+- 🌱 I am a Science LEAD Silver Medallion Scholar from University of Windsor uu
 - 😄 Check out my Portfolio Site Below
 <!--
 **Daljeet-sandhu/Daljeet-sandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
